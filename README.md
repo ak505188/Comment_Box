@@ -1,0 +1,1 @@
+Here's what I've been messing with to learn node. It's essentially what Stefan showed us but with a post and a shitty index.html. REACT and semantic-ui are initialized but don't do anything yet. I'll be playing around with this more and will add some comments so it will be easier to learn from.
